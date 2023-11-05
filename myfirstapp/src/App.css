@@ -1,0 +1,18 @@
+body {
+  background-image: url('./images.jpeg');
+  background-size: cover;
+
+}
+.myImg {
+    width: 80%;
+    margin: 2rem 10%;
+    height: 70vh;
+}
+.Naruto_cards {
+    display: flex;
+    justify-content: center;
+    margin: 4rem;
+}
+.naruto_card {
+    margin: 1rem;
+}
